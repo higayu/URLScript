@@ -13,7 +13,6 @@
 .env.development
 .env
 node_modules
-node_modules_
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
